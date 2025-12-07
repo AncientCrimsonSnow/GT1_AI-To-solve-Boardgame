@@ -1,4 +1,4 @@
-# GT1_AI-To-solve-Roundbased-board-Game
+# GT1_AI-to-solve-roundbased-Boardgame
 This repository contains the practical part of the Game Technologies 1 (GT1) course M.Sc..
 
 ## Project Overview
